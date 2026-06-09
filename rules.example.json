@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "name": "support-request",
+      "subject_contains": ["support", "help"],
+      "body_contains": ["issue", "problem", "error"],
+      "reply_subject": "We received your support request",
+      "reply_body": "Hi,\n\nThanks for reaching out. We received your request and will get back to you shortly.\n\nBest,\nSupport Bot"
+    },
+    {
+      "name": "pricing-question",
+      "subject_contains": ["pricing", "quote", "cost"],
+      "body_contains": [],
+      "reply_subject": "Pricing information",
+      "reply_body": "Hi,\n\nThanks for your interest. A team member will follow up with pricing details shortly.\n\nBest,\nSales Bot"
+    }
+  ]
+}
+
