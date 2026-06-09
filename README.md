@@ -72,19 +72,19 @@ Matching behavior:
 Run one cycle:
 
 ```bash
-python main.py --once
+python3 main.py --once
 ```
 
 Run continuously:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 You can increase logs for debugging:
 
 ```bash
-python main.py --once --log-level DEBUG
+python3 main.py --once --log-level DEBUG
 ```
 
 ## 4) Move to live mode
@@ -98,7 +98,7 @@ After validating with dry run logs:
 ## Run tests
 
 ```bash
-python -m unittest discover -s tests -v
+python3 -m unittest discover -s tests -v
 ```
 
 ## Safety notes
