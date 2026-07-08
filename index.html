@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Email Command Center</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <span class="brand-mark">✉️</span>
+          <div>
+            <h1>Email Hub</h1>
+            <p>Main control panel</p>
+          </div>
+        </div>
+
+        <nav class="nav">
+          <button class="nav-link active">Dashboard</button>
+          <button class="nav-link">Inbox</button>
+          <button class="nav-link">Follow-Ups</button>
+          <button class="nav-link">Templates</button>
+          <button class="nav-link">Automations</button>
+          <button class="nav-link">Contacts</button>
+          <button class="nav-link">Reports</button>
+          <button class="nav-link">Settings</button>
+        </nav>
+
+        <div class="sync-card">
+          <h3>Sync Status</h3>
+          <p id="sync-time">Last synced: just now</p>
+          <button id="sync-btn" class="btn secondary">Sync inboxes</button>
+        </div>
+      </aside>
+
+      <main class="content">
+        <header class="topbar">
+          <div>
+            <h2>Operations Dashboard</h2>
+            <p>Manage inboxes, priorities, and response workflows in one place.</p>
+          </div>
+          <div class="topbar-actions">
+            <label class="search">
+              <span>🔎</span>
+              <input id="search-input" type="text" placeholder="Search by sender or subject..." />
+            </label>
+            <button class="btn primary">+ New Campaign</button>
+          </div>
+        </header>
+
+        <section class="metrics-grid" id="metrics-grid">
+          <article class="metric-card">
+            <p>Unread</p>
+            <h3 id="metric-unread">0</h3>
+            <span class="metric-footnote">Across all inboxes</span>
+          </article>
+          <article class="metric-card">
+            <p>Needs Reply Today</p>
+            <h3 id="metric-today">0</h3>
+            <span class="metric-footnote">SLA due in 24h</span>
+          </article>
+          <article class="metric-card">
+            <p>Avg Response Time</p>
+            <h3 id="metric-response-time">0h</h3>
+            <span class="metric-footnote">Last 7 days</span>
+          </article>
+          <article class="metric-card">
+            <p>Automations Active</p>
+            <h3 id="metric-automations">0</h3>
+            <span class="metric-footnote">Rule-based workflows</span>
+          </article>
+        </section>
+
+        <section class="dashboard-grid">
+          <article class="panel panel-wide">
+            <div class="panel-header">
+              <h3>Priority Queue</h3>
+              <div class="filters">
+                <button class="chip active" data-filter="all">All</button>
+                <button class="chip" data-filter="today">Due today</button>
+                <button class="chip" data-filter="overdue">Overdue</button>
+              </div>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Sender</th>
+                    <th>Subject</th>
+                    <th>Priority</th>
+                    <th>Due</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody id="queue-body"></tbody>
+              </table>
+            </div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-header">
+              <h3>Mailbox Health</h3>
+            </div>
+            <ul class="health-list" id="health-list"></ul>
+          </article>
+
+          <article class="panel">
+            <div class="panel-header">
+              <h3>Automation Center</h3>
+            </div>
+            <ul class="automation-list" id="automation-list"></ul>
+          </article>
+
+          <article class="panel">
+            <div class="panel-header">
+              <h3>Quick Compose</h3>
+            </div>
+            <form id="compose-form" class="compose-form">
+              <input type="text" id="compose-to" placeholder="To" required />
+              <input type="text" id="compose-subject" placeholder="Subject" required />
+              <textarea id="compose-message" rows="4" placeholder="Write your message..." required></textarea>
+              <button class="btn primary" type="submit">Queue Draft</button>
+            </form>
+            <p id="compose-feedback" class="feedback"></p>
+          </article>
+
+          <article class="panel panel-wide">
+            <div class="panel-header">
+              <h3>Recent Activity</h3>
+            </div>
+            <ul class="activity-list" id="activity-list"></ul>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
