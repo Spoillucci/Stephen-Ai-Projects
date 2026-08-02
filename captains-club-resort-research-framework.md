@@ -71,6 +71,18 @@ For 10 or more rooms, a written proposal from the resort's official Groups, Meet
 
 The resort passes the price gate only when its standard qualifying suite is at or below the user-provided all-in per-room maximum for the full stay. If a price is unavailable, undated, based on another travel period, or excludes mandatory charges, mark it **unverified** and eliminate it from the final ranking.
 
+### Historical pricing benchmark for conditional candidates
+
+Historical pricing may be used to identify commercially plausible properties for negotiation, but it never verifies the requested travel year or clears the price gate.
+
+A resort can be labeled:
+
+> **Conditional 2027 candidate — operationally qualified; May 2026 pricing benchmark verified; May 2027 pricing pending official group proposal.**
+
+Use this label only when all non-pricing mandatory criteria have passed and an approved source verifies a comparable May 2026 price. The evidence must identify the stay dates, room category, occupancy, all-inclusive inclusions, taxes and mandatory fees, and the all-in three-night per-room total. Accept only an official archived direct-booking record or written confirmation from the resort's official Groups, Meetings, Events, or Sales department.
+
+Historical rates are negotiation context only. Do not use them to estimate, infer, score, or represent the May 2027 price, availability, group inventory, or contract terms.
+
 ## Workflow
 
 ### Phase 1: Qualification shortlist
@@ -78,8 +90,8 @@ The resort passes the price gate only when its standard qualifying suite is at o
 1. Build a comprehensive candidate list within the approved geography.
 2. Apply every mandatory location, resort, accommodation, dining, event, and experience criterion.
 3. Preserve source URLs and quoted evidence for each passing candidate.
-4. Mark pricing as **verified via direct booking**, **verified via official group quote**, or **pending official verification**.
-5. Do not score or recommend a resort with pending pricing.
+4. Mark pricing as **verified via direct booking**, **verified via official group quote**, **conditional 2027 candidate — May 2026 benchmark verified**, or **pending official verification**.
+5. Do not rank, assign a final value score, or recommend a resort with pending May 2027 pricing. Conditional candidates may appear only in a separately labeled negotiation shortlist.
 
 ### Phase 2: Commercial validation
 
