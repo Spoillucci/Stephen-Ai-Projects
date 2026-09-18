@@ -58,6 +58,30 @@ Only the Negombo / airport belt reliably sits inside 40 minutes of CMB.
 
 Also eliminated: Sentido Heritance Negombo (family, kids pool, AI is an add-on); Hotel Riu Sri Lanka Ahungalla (true 24-hour AI but family, RiuLand, ~2 hours from CMB); Sun Siyam Pasikudah (24-hour AI but family kids club, 5–6 hours or seaplane); Santani Wellness (12+, full-board wellness, ~3 hours from CMB); Thaulle (Ayurveda, 13+, far south).
 
+## True all-inclusive scan (priority filter)
+
+True all-inclusive = meals **and** beverages included in the rate as the product, not spa credits, full-board add-ons, or limited-hour packages.
+
+### Thailand
+- **Hotel Riu Palace Phuket (Mai Khao)** — Official 5-star, 24-hour all-inclusive. Opens 4 Sept 2026, so it would be operating by May 2027. 16 km from HKT. Six restaurants (Chantra buffet, Ruen Siam Thai, Il Gusto Italian, steakhouse, Pepe’s Food grill, Elite Club restaurant). Family: RIU Land, two kids’ pools. Elite Club (49 rooms) is the quieter block to negotiate.
+- **Club Med Phuket (Kata)** — Genuine premium all-inclusive (meals, open bar, activities). Family kids clubs; not 5-star luxury at the Secrets / Maxx Royal bar; Kata is typically 45–60 minutes from HKT.
+- **Not true AI:** Renaissance Phuket sells an optional all-inclusive package (11:00–23:00, premium surcharge). Centara Grand Phuket AI is an add-on. InterContinental / Aleenta / The Shore are breakfast or meal-plan properties.
+
+### Philippines
+- **Plantation Bay Resort & Spa, Mactan** — Official 5-star destination package with unlimited restaurant food (imported meats excluded) plus unlimited standard wine, beer, spirits, and non-alcoholic drinks, with a stated sobriety cap. Four restaurants. Road access from CEB (~10–30 minutes). Family: kids’ programs, water slides, kids club.
+- **Nay Palad Hideaway, Siargao** — Official true all-inclusive luxury (meals, drinks, activities; champagne extra). Not 18+ adults-only; childcare is referenced. Arrival is via Siargao (IAO), not a typical BOS/PVG hub.
+- **Not true AI / eliminated:** Shangri-La and Dusit Mactan (breakfast). Cauayan and El Nido packages require boat transfers. Club Paradise Palawan is breakfast / limited drinks, plus boat.
+
+### Vietnam — Da Nang
+- **No true all-inclusive resort found.** InterContinental “Enjoy Full Board” covers breakfast, a bento lunch, and a three-course dinner — not drinks. Vinpearl packages are full-board; alcohol is excluded. TIA / Fusion are spa-inclusive or breakfast / plant-based full-board.
+
+### Cambodia — Siem Reap
+- **No true all-inclusive resort found.** Anantara Angkor sells optional packages: the standard AI offer includes meals plus **one hour** of house drinks; Ultra Luxury adds all-day house wine, beer, and spirits, but it is a package on a 39-suite hotel, not an all-inclusive resort. Shinta Mani Wild is true AI (meals and premium drinks) but it is in the Cardamoms, not Siem Reap, and is not a 16-room beach incentive product.
+
+### Sri Lanka
+- **Hotel Riu Sri Lanka, Ahungalla** — Official 5-star 24-hour all-inclusive: meals, snacks, domestic and international alcoholic and non-alcoholic drinks, 24-hour snacks, minibar. Four restaurants. Family: RIU Land, kids’ pool with slides. About two hours from CMB.
+- **Sun Siyam Pasikudah** — Official 5-star boutique, 34 suites, marketed as 24-hour all-inclusive. Family kids club (The Little House). Five to six hours from CMB or seaplane (seaplane fails the transfer rule). Sixteen rooms would occupy nearly half the hotel.
+
 ## What this means for RFPs
 
-Do not send the current Captains Club RFP unchanged and expect compliant proposals. Either keep the gates and drop these five destinations, or explicitly waive **adults-only** and **true all-inclusive** for Asia and score a different product: 5-star luxury, road access, dining depth, and event execution, with a negotiated dining credit or full-board buyout.
+If true all-inclusive is the controlling gate, only **Riu Palace Phuket**, **Plantation Bay Mactan**, **Riu Sri Lanka**, and (with transfer caveats) **Sun Siyam Pasikudah** / **Nay Palad** are commercially real AI products in this country list. Da Nang and Siem Reap still have none. None of those AI properties is adults-only. Either keep adults-only and drop these countries, or keep true AI and accept family resorts with a negotiated quiet-block / Elite Club / partial buyout.
