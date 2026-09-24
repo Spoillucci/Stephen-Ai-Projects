@@ -1,76 +1,96 @@
-# Captains Club — best options synthesis
+# Captains Club — Greece and Asia shortlist
 
 **Dates:** May 16–19, 2027 (3 nights) | 16 rooms / ~32 adults | Budget: USD $2,500 all-in per room  
-**Decision applied:** adults-only gate dropped (per user direction). All other gates retained: 5-star; true all-inclusive; 3+ à la carte restaurants; ≤40-minute road transfer from an international airport; luxury comparable to Secrets / Impression / Sandals Royal Barbados / Excellence / Valentin Imperial / Maxx Royal; dedicated groups/events capability; modern suites; no boat/ferry/seaplane/helicopter arrival.  
-**Pricing status:** May 2027 group pricing is **pending official proposal** for every property below. None may be ranked or contracted until Path B pricing is in hand.
+**Geographic scope (this shortlist only):** Greece and Asia. Mexico, the Caribbean, UAE, and Morocco are out of scope.  
+**Decision applied:** adults-only gate dropped. All other gates retained: 5-star; true all-inclusive; 3+ à la carte restaurants; ≤40-minute road transfer from an international airport; luxury comparable to Secrets / Impression / Sandals / Excellence / Valentin Imperial / Maxx Royal; dedicated groups/events capability; modern suites; no boat/ferry/seaplane/helicopter arrival.  
+**Pricing:** May 2027 group pricing is **pending official proposal** for every property. Do not rank scores or contract until Path B pricing is in hand.
 
-## Tier 1 — Clean full qualifiers (pending pricing)
+## What the research actually produced
 
-All non-adults-only gates verified from official sources in this research run. These are the strongest Captains Club candidates identified.
+Greece has clean full qualifiers (pending pricing). Asia does not.
 
-### 1. Ikos Aria, Kos, Greece ★ Top pick
+In Thailand, the Philippines, Vietnam (Da Nang), Cambodia (Siem Reap), and Sri Lanka, no property passed every remaining gate from official sources. The Asia list below is the strongest commercially real all-inclusive (or closest) product that still sits on a road from an international airport. Da Nang and Siem Reap produced **no true all-inclusive resort**.
 
-- **Airport:** Kos International (KGS), official **20 minutes**.
-- **Dining:** 7 à la carte (Ouzo, Kos, Fresco, Anaya, Provence, Seasons, Oliva) + 1 buffet; Michelin-starred chefs; 100+ premium wines; Dine Out at local tavernas included.
-- **Board:** Ikos Infinite Lifestyle true all-inclusive; 24h room service; stocked minibar.
-- **Rooms:** 374; Deluxe Collection suite area (private pool, exclusive beach/pool/bars) — negotiate a 16-room Deluxe block for the executive feel.
-- **Weather:** May is ideal (high 24°C, low 16°C, ~45 mm rain, 14h daylight); sea ~17–19°C (brisk but swimmable).
-- **Safety:** Greece Level 1 (lowest). Kos composite 82/100.
-- **Entry:** US visa-free 90 days (EES at border); China needs Schengen visa (~15 business days — build lead time).
-- **Key strength:** Michelin-starred dining and Infinite Lifestyle inclusions set the luxury bar; Deluxe Collection isolates the group from family zones.
-- **Key risk:** Family resort — the adults-only gate is the only fail, mitigated by a Deluxe Collection block. Non-Deluxe guests may pre-book only 3 à la carte dinners before arrival — confirm unlimited à la carte for the 16-room block.
+---
 
-### 2. Ikos Dassia, Corfu, Greece ★ Co-top pick
+## Greece — send these RFPs first
 
-- **Airport:** Corfu International (CFU), official **20 minutes**.
-- **Dining:** 7 à la carte (Fresco, Anaya, Kerkyra, Enoteca, Ouzo, Provence, Grill House) + 2 buffets; Michelin-starred chefs; 100+ premium wines; Dine Out included.
-- **Board:** Ikos Infinite Lifestyle true all-inclusive; 24h room service.
-- **Rooms:** 403; Deluxe Collection suite area (private pool, exclusive beach/pool/bars) — same Deluxe-block mitigation as Ikos Aria.
-- **Weather:** Corfu in May is mild, green, low rain (Ionian side, less wind than Kos/Dodecanese).
-- **Safety:** Greece Level 1.
-- **Entry:** Same Schengen rules as Ikos Aria.
-- **Key strength:** Equal to Ikos Aria on luxury, dining, true AI, and transfer; Ionian sea is calmer than the Aegean for boat days.
-- **Key risk:** Same as Ikos Aria — family resort, mitigated by Deluxe Collection block.
+### 1. Ikos Aria, Kos — primary Greece pick
 
-### 3. Mitsis Selection Rinela, Crete, Greece
+| Gate | Result |
+|---|---|
+| Airport | Kos International (KGS), official **20 minutes** |
+| Board | Infinite Lifestyle true all-inclusive; 24h room service; 100+ premium wines |
+| Dining | **7 à la carte** (Ouzo, Kos, Fresco, Anaya, Provence, Seasons, Oliva) + 1 buffet; Michelin-starred chefs; Dine Out included |
+| Rooms | 374; hold a **Deluxe Collection** 16-room block (private pool, exclusive beach/pool/bars) |
+| May weather | High ~24°C, low ~16°C, low rain, long daylight; sea ~17–19°C (brisk) |
+| Safety | Greece Level 1 |
+| Entry | US visa-free 90/180; China needs Schengen visa (~15 business days) |
 
-- **Airport:** Heraklion International (HER), **~12–15 minutes** — the **shortest transfer** of any contender.
-- **Dining:** 5 à la carte (Destination Greek, Italian, Steak House, Pan-Asian, Tex-Mex) + 24h buffet + adults-only Wine Bar.
-- **Board:** 24-hour ultra all-inclusive; free airport transfer for direct bookings.
-- **Rooms:** 393 renovated rooms/suites/villas; private/sharing pool rooms — request a villa/private-pool cluster.
-- **Weather:** May ideal (high 24°C, low 16°C, ~15–32 mm rain, 14h daylight); sea ~19–20°C.
-- **Safety:** Greece Level 1; doctor inside the hotel, hospital 12 km.
-- **Entry:** Same Schengen rules.
-- **Key strength:** Shortest airport transfer; true 24h ultra AI; adults-only Wine Bar and beach section.
-- **Key risk:** 393-room family scale (busier, below Ikos exclusivity); each à la carte restaurant bookable only **once per week** — must negotiate a waiver for the 3-night block.
+**Why it is first:** dining, inclusions, and executive isolation via Deluxe Collection are the closest match to the Secrets/Maxx Royal bar found in Greece.  
+**Negotiate:** unlimited à la carte for the block (non-Deluxe guests otherwise pre-book only 3 dinners); private transfers for all 16 rooms; welcome and farewell venues in writing.
 
-## Tier 2 — The original benchmark finalists (adults-only true-AI luxury)
+### 2. Ikos Dassia, Corfu — equal product, calmer sea
 
-These are the user's previously selected finalists and the properties that **define** the luxury bar. They pass adults-only in addition to all other gates. Re-verify transfer time and May 2027 pricing via official group quote before contracting.
+Same Infinite Lifestyle model: official **20 minutes from CFU**; **7 à la carte** + buffets; Deluxe Collection block. Ionian water is typically calmer than Kos in May for a private boat day. Use as the second Ikos bid so Groups compete.
 
-| Property | Country | Airport / transfer | Notes |
+### 3. Mitsis Selection Rinela, Crete — shortest transfer, more family scale
+
+HER **~12–15 minutes**. True 24-hour ultra all-inclusive. **5 à la carte** (Destination Greek, Italian, Steak House, Pan-Asian, Tex-Mex) plus adults-only Wine Bar. 393 renovated rooms; request a villa/private-pool cluster.
+
+**Negotiate hard:** waive the **once-per-week** à la carte booking rule for a 3-night stay. Without that waiver, a 16-room executive group will fight for tables. Luxury and calm sit below Ikos.
+
+**Do not lead with:** Mitsis Selection Blue Domes (Kos) — 24h AI and ~15–20 minutes from KGS, but 499-room waterpark scale. King Jason Zante and The Ixian Grand (Rhodes) only return if leadership restores adults-only; both then fail dining (2 rotating à la carte / rationed à la carte).
+
+---
+
+## Asia — no clean qualifier; these are the only RFP-worthy true-AI products
+
+True all-inclusive is scarce. Adults-only true AI on a 40-minute road from an international airport was **not found**. If the team wants Asia, pick one of the two below and contract a quiet block.
+
+### A. Hotel Riu Palace Phuket, Mai Khao, Thailand — best Asia AI + airport
+
+| Gate | Result |
+|---|---|
+| Airport | Phuket (HKT), **~16 km / 20–25 minutes** — passes |
+| Board | Official 24-hour all-inclusive |
+| Dining | Six restaurants; qualifying à la carte includes Thai, Italian, steakhouse, grill, plus Elite Club restaurant |
+| Rooms | 504 total; **49 Elite Club** — the only defensible 16-room product |
+| May weather | Southwest monsoon typically starts mid-May; showers/thunderstorms; west-coast seas rougher |
+| Safety | Thailand Level 1 (Phuket is not in the higher-risk south) |
+| Entry | US and China visa-exempt tourism up to 30 days (confirm 2027); TDAC within 3 days of arrival |
+
+**Fails / caveats:** family resort (RIU Land, kids’ pools); luxury is upper-tier RIU, not Ikos/Secrets; hotel opened September 2026 — May 2027 is its **first May**; Similan and Surin marine parks typically **closed mid-May to mid-October**.
+
+**RFP ask:** Elite Club only; king bedding; private welcome/farewell; construction/operations disclosure; indoor backup for outdoor events; Phang Nga Bay as the sea day (not Similan).
+
+### B. Plantation Bay Resort & Spa, Mactan, Philippines — only documented Mactan true AI
+
+| Gate | Result |
+|---|---|
+| Airport | Cebu (CEB), official **~20–30 minutes** |
+| Board | Destination Cebu Package: unlimited restaurant food **except imported meats**; unlimited standard wine, beer, spirits; **sobriety cap ~3 drinks per two hours** |
+| Dining | Four restaurants (Kilimanjaro, Fiji, Palermo, Route 66) |
+| Safety | Typical tourist petty-crime profile; road access only (Boracay/El Nido/Amanpulo fail the boat/plane rule) |
+
+**Fails / caveats:** family lagoon/slides; drink cap and meat exclusions are **not** Secrets-style true AI until Groups waive them; luxury bar below Shangri-La and well below Ikos.
+
+**RFP ask:** waive drink cap and imported-meat exclusions for the block; quiet/king-bed cluster; events capability in writing.
+
+**Do not RFP as a true-AI Captains Club product:** Shangri-La Mactan (breakfast, not AI — only if leadership later drops true AI and buys out F&B); Hotel Riu Sri Lanka (true AI but **~2–2.5 hours from CMB**); Da Nang and Siem Reap (no true AI; Siem Reap also fails the 40-minute airport gate).
+
+---
+
+## Team recommendation
+
+| Priority | Property | Region | Why |
 |---|---|---|---|
-| **Secrets Cap Cana** | Dominican Republic | PUJ, ~30–40 min | Adults-only true AI; 4+ à la carte; the benchmark |
-| **Impression Moxché by Secrets** | Mexico (Playa Mujeres) | CUN, ~30–40 min | Adults-only true AI; 4+ à la carte; user's preferred Mexico option over Maroma |
-| **Secrets Maroma Beach** | Mexico (Riviera Cancun) | CUN, ~30–40 min | Adults-only true AI; 4+ à la carte |
-| **Secrets Lanzarote** | Spain (Canaries) | ACE, verify ≤40 min | Adults-only true AI; 4+ à la carte |
-| **Sandals Royal Curaçao** | Curaçao | CUR, verify road access | Adults-only couples true AI; 4+ à la carte |
-| **Rixos Premium Saadiyat** | Abu Dhabi, UAE | AUH, ~20–30 min | Verify adults-only (Rixos Premium is often family); true AI; 5+ à la carte |
-| **Riu Palace Tikida** | Agadir, Morocco | AGA, verify ≤40 min | Verify adults-only and true AI; à la carte count |
+| 1 | **Ikos Aria, Kos** | Greece | Best dining, inclusions, and Deluxe isolation; 20 min from KGS |
+| 2 | **Ikos Dassia, Corfu** | Greece | Same Ikos product; 20 min from CFU; calmer sea |
+| 3 | **Mitsis Rinela, Crete** | Greece | 12–15 min from HER; only if Groups waive once-per-week dining |
+| 4 | **Riu Palace Phuket (Elite Club)** | Asia | Only Asia property that is true 24h AI **and** inside 40 minutes of an international airport |
+| 5 | **Plantation Bay, Mactan** | Asia | Only if Phuket weather/new-hotel risk is unacceptable **and** Groups lift drink/meat limits |
 
-## Tier 3 — Strong but with a controlling caveat
+**Send the standard Captains Club RFP to 1–3 immediately.** Add 4 (and 5 only if needed) so Asia is on the same comparison sheet. Do not add Da Nang, Siem Reap, or Riu Sri Lanka to the bid list unless leadership waives transfer and/or true all-inclusive.
 
-| Property | Pass | Controlling caveat |
-|---|---|---|
-| **Mitsis Selection Blue Domes**, Kos | 24h ultra AI; 7 à la carte; ~15–20 min from KGS | 499-room family waterpark scale (slides, mini club) — below the calm/exclusivity bar |
-| **Plantation Bay**, Mactan, PH | True AI; 4 restaurants; ~20–30 min from CEB | Drink cap (~3 drinks/2h); imported meats excluded; below Secrets luxury |
-| **Hotel Riu Palace Phuket** | True 24h AI; 20–25 min from HKT; Elite Club block | May monsoon; Similan/Surin marine parks closed mid-May; new hotel (first May) |
-| **Hotel Riu Sri Lanka** | True 24h AI | **Fails the 40-min transfer gate** (~2–2.5h from CMB); May is the wettest month; whale season ends |
-
-## Recommendation
-
-**Send RFPs to the Tier 1 trio first** — Ikos Aria, Ikos Dassia, and Mitsis Rinela. They are the only properties verified in this research run that clear every non-adults-only gate from official sources, and they offer a combination of Michelin-level dining, true all-inclusive, and a 12–20-minute airport transfer that the original benchmark finalists cannot beat on paper.
-
-**Then re-verify the Tier 2 finalists** with official group quotes and confirm transfer times for Secrets Lanzarote, Sandals Royal Curaçao, Rixos Saadiyat, and Riu Palace Tikida. Secrets Cap Cana, Impression Moxché, and Secrets Maroma remain the safest luxury benchmarks if the group prefers the Caribbean/Mexico product.
-
-**Do not contract any property until Path B pricing is in hand.** All pricing is currently pending official group proposal.
+China Schengen visas for Greece need ~15 business days plus appointment time — start that track as soon as Greece is shortlisted. US guests are visa-free for Greece and (under current 2026 rules) visa-exempt for Thailand tourism for a 3-night stay; reconfirm both in spring 2027.
