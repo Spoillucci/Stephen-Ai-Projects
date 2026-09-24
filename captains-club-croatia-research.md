@@ -144,15 +144,22 @@ Rixos Premium Dubrovnik is the **only Croatia property** that could plausibly pa
 
 | Property | Location | Why it is out |
 |---|---|---|
-| **Pical Resort, Valamar Collection** | Porec, Istria | New 5-star opening spring 2026. AI is only in the "Pical Family Hotel" section — wine/beer included at lunch/dinner, not premium spirits. V Level and Pical Hotel sections are B&B. 514-room family waterpark scale. Below true-AI and exclusivity bar. |
-| **Savudrija Resort Plava Laguna** | Savudrija, Istria | Opens April 2027 — too new, no AI details published. Marketed as premium AI family resort. Family-focused. Cannot evaluate. |
+| **Pical Resort, Valamar Collection** | Porec, Istria | New 5-star opened March 2026 (EUR 200M). ESPA spa, Michelin-starred chefs, 5 signature restaurants. BUT: AI is only in the "Pical Family Hotel" section — wine/beer at lunch/dinner, not premium spirits. V Level and Pical Hotel are B&B. 514-room family waterpark scale (3,000 m² family zone, 11 pools). AND: nearest airport Pula (PUY) is 58 km / ~42–51 min — **fails transfer gate**. |
+| **Falkensteiner Hotel & Spa Iadera** | Zadar | 5-star, 3 a la carte (Bracera, Planika, Spice) + Jadran main. ~25 min from Zadar Airport (ZAD) — passes transfer. BUT: B&B or half-board only. Drinks explicitly NOT included. Iadera Dining Collection rations a la carte (1 dinner for a 3-night stay). Not true AI — same rationing issue as The Ixian Grand (Rhodes). |
+| **TUI BLUE Adriatic Beach** | Zivogosc, Makarska Riviera | Adults-only (16+) true all-inclusive. BUT: 4-star (not 5-star). Only 2 restaurants (1 buffet + 1 a la carte Culinarium). 117 km / ~1.5–2 hours from Split Airport (SPU) — **fails transfer gate badly**. Reviews cite poor wine quality, machine drinks. Below luxury bar. |
+| **Sun Gardens Dubrovnik** | Orasac, near Dubrovnik | 5-star, Leading Hotels of the World. ~30–35 min from DBV — passes transfer. BUT: explicitly **no all-inclusive** ("No, all-inclusive service is not available"). B&B only. Luxury but not AI. |
+| **Hotel More** | Dubrovnik (Lapad) | 5-star, adults-only (14+). Cave Bar More (natural cave bar). ~23 km from DBV — passes transfer. BUT: NOT all-inclusive. B&B/half-board. Luxury but not AI. |
+| **Savudrija Resort Plava Laguna** | Savudrija, Istria | Opens April 2027 — too new, no AI details published. Marketed as premium AI family resort. Family-focused. Same Istria airport issue. Cannot evaluate. |
+| **Anantara Adriatic Istria Resort** | Savudrija, Istria | 5-star luxury (Minor Hotels/Anantara), relaunching early 2027. 186 keys, 3 restaurants, 4 bars, PGA National Croatia golf course. **Not all-inclusive.** |
+| **Falkensteiner Club Funimation Borik** | Zadar | True AI with spirits, cocktails, beer, wine. BUT: 4-star (not 5-star). Buffet dining only — a la carte costs extra. Family club. Below luxury bar. ~25 min from ZAD. |
 | **Pine Beach Pakostane** | Pakostane, Dalmatia | Budget/family AI with buffet food and draft drinks only. Not 5-star, not luxury. Mobile homes and bungalows. |
-| **Anantara Adriatic Istria Resort** | Istria | 5-star luxury golf and spa. **Not all-inclusive.** |
 | **Valamar Girandella Maro Suites & Villas** | Rabac, Istria | Family AI. Premium buffet dining, not 3+ a la carte. Below luxury bar. |
 | **Valamar Bellevue Resort** | Rabac, Istria | Family AI. Buffet/themed dinners. Below luxury bar. |
 | **Sunny Dubrovnik by Valamar** | Dubrovnik | Budget AI — buffet meals, self-served cocktails. Not 5-star luxury. |
+| **Hotel Donat All Inclusive** | Zadar | Family AI. Not 5-star. Buffet dining. |
+| **Bluesun Hotel Neptun** | Dalmatia | All-inclusive. Not 5-star luxury. |
 
-**Why Croatia's AI market is thin:** Croatia's luxury tier (Adriatic Luxury Hotels, Valamar Collection V Level, Anantara) operates on B&B or half-board. True all-inclusive is concentrated in the family/mid-market segment (Valamar, Pine Beach, Plava Laguna). Rixos is the only brand attempting to bring the Turkish luxury AI model to Croatia, but even there the official concept is listed as B&B with AI as a package option.
+**Why Croatia's AI market is thin:** Croatia's luxury tier operates on B&B or half-board. Sun Gardens Dubrovnik (Leading Hotels of the World) explicitly states "No, all-inclusive service is not available." Hotel More (5-star adults-only) is B&B/half-board. Falkensteiner Iadera (5-star) is B&B/half-board with drinks excluded and a la carte rationed. Anantara Istria (Minor Hotels) is not AI. The true all-inclusive properties (Falkensteiner Club Funimation, Hotel Donat, Sunny Dubrovnik, Pine Beach) are all 4-star or below, family-oriented, buffet-driven, and below the luxury bar. The only crossover attempts are Rixos Premium Dubrovnik (luxury + optional AI package) and Pical Resort (luxury + AI in family section only, and fails the transfer gate). No Ikos-style confirmed true-AI luxury product exists in Croatia.
 
 ---
 
